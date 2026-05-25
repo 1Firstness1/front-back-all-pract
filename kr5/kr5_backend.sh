@@ -1,5 +1,5 @@
 #!/bin/bash
 set -euo pipefail
 
-cd /Users/artem/WebstormProjects/front-back\ all-pract/kr4/postgresql
-node server.js
+cd /Users/artem/WebstormProjects/Library
+uvicorn backend.main:app --reload --port 8000

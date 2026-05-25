@@ -19,23 +19,23 @@ npm start
 
 ### POST /api/users
 
-<img width="954" height="852" alt="Снимок экрана 2026-05-07 в 14 13 19" src="https://github.com/user-attachments/assets/1082d456-ca94-48b4-a415-4583817beb34" />
+![post.png](screenshots/post.png)
 
 ### GET /api/users
 
-<img width="950" height="643" alt="Снимок экрана 2026-05-07 в 14 21 21" src="https://github.com/user-attachments/assets/51390abd-6e94-4201-a5ee-998e38b63d57" />
+![get.png](screenshots/get.png)
 
 ### GET /api/users/:id
 
-<img width="950" height="690" alt="Снимок экрана 2026-05-07 в 14 24 41" src="https://github.com/user-attachments/assets/b34c7394-eca7-4001-9728-fba16d1aba83" />
+![get_id.png](screenshots/get_id.png)
 
 ### PATCH /api/users/:id
 
-<img width="712" height="755" alt="Снимок экрана 2026-05-07 в 14 26 04" src="https://github.com/user-attachments/assets/14e48ce7-c176-4a74-9e90-a617de615429" />
+![patch.png](screenshots/patch.png)
 
 ### DELETE /api/users/:id
 
-<img width="1066" height="730" alt="Снимок экрана 2026-05-07 в 14 27 22" src="https://github.com/user-attachments/assets/e71fad53-2a41-4840-8a98-9b78b4b94031" />
+![delete.png](screenshots/delete.png)
 
 # Практическая работа №20
 
@@ -82,23 +82,23 @@ MongoDB, коллекция `users`:
 
 ### POST /api/users
 
-<img width="608" height="801" alt="Снимок экрана 2026-05-11 в 15 47 10" src="https://github.com/user-attachments/assets/17125ca6-e7ee-43c7-9859-3b6ec77f5520" />
+![post.png](screenshots/post.png)
 
 ### GET /api/users
 
-<img width="945" height="652" alt="Снимок экрана 2026-05-11 в 15 49 03" src="https://github.com/user-attachments/assets/57cdc90a-02c8-464f-b912-56fcf3b504ae" />
+![get.png](screenshots/get.png)
 
 ### GET /api/users/:id
 
-<img width="823" height="610" alt="Снимок экрана 2026-05-11 в 15 51 34" src="https://github.com/user-attachments/assets/fe24bcc4-b01c-4145-b808-6fb650326a84" />
+![get_id.png](screenshots/get_id.png)
 
 ### PATCH /api/users/:id
 
-<img width="550" height="586" alt="Снимок экрана 2026-05-11 в 15 52 51" src="https://github.com/user-attachments/assets/29d9fdc6-0df1-44c0-aebb-2aee9e425fac" />
+![patch.png](screenshots/patch.png)
 
 ### DELETE /api/users/:id
 
-<img width="1099" height="742" alt="Снимок экрана 2026-05-11 в 15 53 40" src="https://github.com/user-attachments/assets/8abbba97-50e9-4937-9b5a-be44343ef5fa" />
+![delete.png](screenshots/delete.png)
 
 # Практические работы №22-23
 
